@@ -1,0 +1,13 @@
+.textArea{
+        -fx-font-size: 12px;
+        -fx-font-color: #202020;
+        -fx-background-color: #F0F0F0;
+        -fx-font-type: 'monospace';
+
+}
+.tree{
+        -fx-font-size: 12px;
+        -fx-font-color: #202020;
+        -fx-background-color: #F0F0F0;
+        -fx-font-type: 'monospace';
+}
